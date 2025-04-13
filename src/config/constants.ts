@@ -1,6 +1,6 @@
 // API key for authentication
 // Get from environment variable with fallback for development
-export const API_KEY = Deno.env.get('RELAY_API_KEY') ?? 'd8b5bc18-8bb7-4113-a58b-ba1fdcb9df81';
+export const API_KEY = Deno.env.get('RELAY_API_KEY') ?? '';
 
 // Server configuration
 export const SERVER_PORT = 8000;
