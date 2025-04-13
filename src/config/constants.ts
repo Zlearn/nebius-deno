@@ -26,6 +26,6 @@ export const EXTERNAL_API = {
 
 // Redis 配置
 export const REDIS_CONFIG = {
-  URL: 'https://eu2-sought-mollusk-30143.upstash.io',
-  TOKEN: '8f257816-062a-41e8-ae03-572963ca38e7',
+  URL: 'https://smashing-stag-11906.upstash.io',
+  TOKEN: 'AS6CAAIjcDFmYTZhYTVlMTJjNzA0ZjAwOTQ3OGNlMGYxZThmZTNhMHAxMA',
 };
