@@ -26,6 +26,6 @@ export const EXTERNAL_API = {
 
 // Redis 配置
 export const REDIS_CONFIG = {
-  URL: 'https://smashing-stag-11906.upstash.io',
-  TOKEN: 'AS6CAAIjcDFmYTZhYTVlMTJjNzA0ZjAwOTQ3OGNlMGYxZThmZTNhMHAxMA',
+  URL: 'https://.upstash.io',
+  TOKEN: '',
 };
