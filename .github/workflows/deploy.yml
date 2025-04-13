@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "zlearn-nebius-deno-43"
-          entrypoint: "main.ts"
+          entrypoint: "./src/main/main.ts"
           root: ""
           
           
