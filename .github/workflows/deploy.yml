@@ -39,6 +39,6 @@ jobs:
         with:
           project: "zlearn-nebius-deno-43"
           entrypoint: "./src/main/main.ts"
-          root: ""
+          root: "nebius-deno"
           
           
